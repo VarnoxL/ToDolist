@@ -1,0 +1,1 @@
+This is a todolist project using python, I'm still trying to learn python and this one of my first couple project. I learn to use list, enumerate in the list, use the pop function to delete item in the list, use try/except to catch user error, and strengthen my while loop skills.
